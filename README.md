@@ -7,7 +7,7 @@
         You won't find a lot of commits from me so far because I have historically not been using github as a repository. I have been here for a while, but have been
         lurking and downloading. The plan moving forward is to start using github properly as a version control system for my projects.
 
-- 💞️ I’m looking to collaborate on nothing at the moment. If you want to collaborate with me on something, let me know.
+- 💞️ If you want to collaborate with me on something, let me know.
 
 - 📫 How to reach me github.projects@isurf2.com 
 
